@@ -1,5 +1,5 @@
 # About Me:
-👋 Hey, my Name is Jason & I'am currently 16 years old. I was born in Germany and live here since my birth.<br>I speak the Languages German & English fluently & have basic knowledge of french & korean.<br>Mainly, i code in Python Discord Bots for Communitys. However, I also have knowledge of HTML, CSS and JS.
+👋 Hey, my Name is Jason & I'am currently 16 years old. I was born in Germany and live here since my birth.<br>I speak the Languages German & English fluently & have basic knowledge of french & korean.<br>Mainly, I code in Python Discord Bots for Communitys. However, I also have knowledge of HTML, CSS and JS.
 
 # Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/just_jasxn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20842686) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@just.jasxn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCiEnLkO854QXbqRukSFWXkw) 
